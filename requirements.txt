@@ -1,0 +1,8 @@
+Flask
+flask-restx
+sentence-transformers
+qdrant-client
+requests
+openai
+google-generativeai
+numpy
